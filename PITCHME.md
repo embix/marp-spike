@@ -1,7 +1,7 @@
 ---
 marp: true
 lang: en-US
-title: Marp CLI example
+title: marp-spike
 description: Hosting Marp slide deck on the web
 theme: uncover
 transition: fade
@@ -11,7 +11,7 @@ _paginate: false
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> marp-spike
 
 Hosting Marp slide deck on the web
 
