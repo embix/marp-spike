@@ -15,7 +15,7 @@ _paginate: false
 
 Hosting Marp slide deck on the web
 
-https://github.com/yhatt/marp-cli-example
+https://embix.github.io/marp-spike/
 
 <style scoped>a { color: #36c; }</style>
 
